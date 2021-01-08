@@ -1,0 +1,12 @@
+captcha:
+  version: 1.x
+  js:
+    components/captcha/captcha.js: {}
+alterlogin:
+  version: 1.x
+  js:
+    js/alterlogin.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
+    - alterlogin/captcha

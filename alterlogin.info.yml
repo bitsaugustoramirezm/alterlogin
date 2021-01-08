@@ -1,0 +1,6 @@
+name: Alter Login Module
+description: Alter login form.
+package: Custom
+
+type: module
+core: 8.x
